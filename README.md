@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Churn Analysis Dashboard
 
 ## Project Overview
@@ -24,3 +25,7 @@ why customers leave and how to retain them.
 
 ## Dataset Link
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+=======
+# FUTURE_DS_TASK2
+Customer Churn Analysis Dashboard built with Power BI to identify why customers leave and improve retention.
+>>>>>>> 748aefa75f6ac1e60119cc13da3645b70fba183f
